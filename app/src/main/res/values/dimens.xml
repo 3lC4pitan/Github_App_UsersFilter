@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_30">30sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+
+
+    <dimen name="layout_0">0dp</dimen>
+    <dimen name="layout_1">1dp</dimen>
+    <dimen name="layout_2">2dp</dimen>
+    <dimen name="layout_5">5dp</dimen>
+    <dimen name="layout_7">7dp</dimen>
+    <dimen name="layout_8">8dp</dimen>
+    <dimen name="layout_10">10dp</dimen>
+    <dimen name="layout_15">15dp</dimen>
+    <dimen name="layout_12">12dp</dimen>
+    <dimen name="layout_16">16dp</dimen>
+    <dimen name="layout_20">20dp</dimen>
+    <dimen name="layout_30">30dp</dimen>
+    <dimen name="layout_60">60dp</dimen>
+    <dimen name="layout_65">65dp</dimen>
+    <dimen name="layout_100">100dp</dimen>
+    <dimen name="layout_150">150dp</dimen>
+    <dimen name="layout_214">214dp</dimen>
+</resources>

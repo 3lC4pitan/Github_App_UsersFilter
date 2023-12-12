@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">VIPASO Assign</string>
+
+    <string name="action_voice_search">Voice search</string>
+
+    <string name="user_id">id: %d</string>
+    <string name="search_status">%d user(s) found</string>
+    <string name="username">Username</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="biography">Biography:</string>
+    <string name="this_is_the_bio">This is the bio</string>
+    <string name="user_information">User Information:</string>
+    <string name="company">Company</string>
+    <string name="hireable">Hireable</string>
+    <string name="location">Location</string>
+    <string name="url">URL</string>
+    <string name="blog">Blog</string>
+    <string name="twitter">Twitter</string>
+    <string name="email">Email</string>
+    <string name="created_at">Created at</string>
+    <string name="updated_at">Updated at</string>
+    <string name="account_information">Account Information:</string>
+    <string name="followers">Followers</string>
+    <string name="_100">100</string>
+    <string name="following">Following</string>
+    <string name="_50">50</string>
+    <string name="repositories">Repositories</string>
+    <string name="_10">10</string>
+    <string name="gists">Gists</string>
+    <string name="_3">3</string>
+    <string name="search">Search</string>
+    <string name="_0_users_found">0 users found</string>
+    <string name="v0_1">V0.1</string>
+    <string name="profile_image">Profile Image</string>
+
+</resources>
